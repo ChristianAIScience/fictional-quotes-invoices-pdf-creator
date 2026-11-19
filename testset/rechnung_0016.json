@@ -1,0 +1,102 @@
+{
+  "file": "rechnung_0016.pdf",
+  "pair_id": "0016",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0659",
+  "issue_date": "2026-04-18",
+  "customer_no": "K-40369",
+  "valid_until": null,
+  "performance_start": "2026-04-10",
+  "performance_end": "2026-04-12",
+  "due_date": "2026-05-02",
+  "quote_number": "AN-2026-0316",
+  "quote_date": "2026-03-23",
+  "sender": {
+    "company": "Tischlerei Zapfenhuber",
+    "street": "Am Sägewerk 49",
+    "postal_code": "96110",
+    "city": "Scheßlitz",
+    "tax_number": "000/767/97643",
+    "vat_id": "DE000815614",
+    "iban": "DE00 6120 1836 6752 5459 91",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Büros 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Austausch beschädigter Arbeitsplattenkante",
+      "quantity": "1.5",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "109.50"
+    },
+    {
+      "position": 2,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quantity": "1",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "73.00"
+    },
+    {
+      "position": 3,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "2",
+      "unit": "lfm",
+      "unit_price": "2.43",
+      "total": "4.86"
+    },
+    {
+      "position": 4,
+      "description": "Schmier- und Pflegemittel",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "13.79",
+      "total": "13.79"
+    },
+    {
+      "position": 5,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "8.44",
+      "total": "25.32"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "44.42",
+      "total": "44.42"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "44.01",
+      "total": "44.01"
+    },
+    {
+      "position": 8,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "41.93",
+      "total": "41.93"
+    }
+  ],
+  "net": "356.83",
+  "vat": "67.80",
+  "gross": "424.63",
+  "skonto_amount": null,
+  "deviations": []
+}

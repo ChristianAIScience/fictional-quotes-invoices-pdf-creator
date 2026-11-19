@@ -1,0 +1,118 @@
+{
+  "file": "rechnung_0038.pdf",
+  "pair_id": "0038",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0681",
+  "issue_date": "2026-09-18",
+  "customer_no": "K-59738",
+  "valid_until": null,
+  "performance_start": null,
+  "performance_end": "2026-09-10",
+  "due_date": "2026-10-02",
+  "quote_number": "AN-2026-0338",
+  "quote_date": "2026-08-12",
+  "sender": {
+    "company": "Schreinerei Fichtlhuber",
+    "street": "Am Sägewerk 15",
+    "postal_code": "96117",
+    "city": "Memmelsdorf",
+    "tax_number": "000/744/51870",
+    "vat_id": "DE000534949",
+    "iban": "DE00 7562 2086 3536 5419 51",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage eines Empfangstresens",
+  "location": "Empfang EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Entwurf, Aufmaß und Detailplanung",
+      "quantity": "8",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "520.00"
+    },
+    {
+      "position": 2,
+      "description": "Anlieferung und Montage vor Ort",
+      "quantity": "8.5",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "552.50"
+    },
+    {
+      "position": 3,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "4",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "260.00"
+    },
+    {
+      "position": 4,
+      "description": "Furnier- und Oberflächenarbeiten, Lackierung",
+      "quantity": "10.5",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "682.50"
+    },
+    {
+      "position": 5,
+      "description": "Schubkastenelement mit Schloss",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "188.40",
+      "total": "188.40"
+    },
+    {
+      "position": 6,
+      "description": "Höhenverstellbare Stellfüße",
+      "quantity": "7",
+      "unit": "Stk.",
+      "unit_price": "6.64",
+      "total": "46.48"
+    },
+    {
+      "position": 7,
+      "description": "2K-Klarlack, seidenmatt",
+      "quantity": "3.5",
+      "unit": "l",
+      "unit_price": "29.22",
+      "total": "102.27"
+    },
+    {
+      "position": 8,
+      "description": "Mineralwerkstoff-Abdeckplatte 12 mm",
+      "quantity": "1.4",
+      "unit": "m²",
+      "unit_price": "496.59",
+      "total": "695.23"
+    },
+    {
+      "position": 9,
+      "description": "MDF-Platte 19 mm für Korpus",
+      "quantity": "8",
+      "unit": "m²",
+      "unit_price": "18.95",
+      "total": "151.60"
+    },
+    {
+      "position": 10,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "44.48",
+      "total": "44.48"
+    }
+  ],
+  "net": "3243.46",
+  "vat": "616.26",
+  "gross": "3859.72",
+  "skonto_amount": null,
+  "deviations": []
+}

@@ -1,0 +1,134 @@
+{
+  "file": "angebot_0008.pdf",
+  "pair_id": "0008",
+  "doc_type": "angebot",
+  "number": "AN-2025-0308",
+  "issue_date": "2025-12-28",
+  "customer_no": "K-14737",
+  "valid_until": "2026-01-27",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Schreinerei Zirbelmoser",
+    "street": "Mühlweg 1",
+    "postal_code": "91074",
+    "city": "Herzogenaurach",
+    "tax_number": "000/572/62849",
+    "vat_id": "DE000877694",
+    "iban": "DE00 4966 3193 1491 9058 65",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Flur 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Aufmaß und Planung",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "204.00"
+    },
+    {
+      "position": 2,
+      "description": "Anpassen an Decke und Wand, Montage der Passleisten",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "170.00"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "15.5",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "1054.00"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "6",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "408.00"
+    },
+    {
+      "position": 5,
+      "description": "Fachbodenträger Metall",
+      "quantity": "52",
+      "unit": "Stk.",
+      "unit_price": "0.37",
+      "total": "19.24"
+    },
+    {
+      "position": 6,
+      "description": "ABS-Kantenband 23 mm",
+      "quantity": "55",
+      "unit": "lfm",
+      "unit_price": "1.72",
+      "total": "94.60"
+    },
+    {
+      "position": 7,
+      "description": "Möbelschlösser mit Zylinder, gleichschließend",
+      "quantity": "6",
+      "unit": "Stk.",
+      "unit_price": "22.92",
+      "total": "137.52"
+    },
+    {
+      "position": 8,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "9.5",
+      "unit": "lfm",
+      "unit_price": "18.87",
+      "total": "179.27"
+    },
+    {
+      "position": 9,
+      "description": "Spanplatte melaminbeschichtet 19 mm, lichtgrau",
+      "quantity": "20",
+      "unit": "m²",
+      "unit_price": "31.28",
+      "total": "625.60"
+    },
+    {
+      "position": 10,
+      "description": "Möbelgriffe Edelstahl, 128 mm",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "9.19",
+      "total": "82.71"
+    },
+    {
+      "position": 11,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "38.81",
+      "total": "38.81"
+    },
+    {
+      "position": 12,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "48.12",
+      "total": "48.12"
+    }
+  ],
+  "net": "3061.87",
+  "vat": "581.76",
+  "gross": "3643.63",
+  "skonto_amount": null,
+  "deviations": null
+}

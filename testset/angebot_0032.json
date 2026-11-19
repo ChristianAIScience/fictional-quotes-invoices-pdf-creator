@@ -1,0 +1,94 @@
+{
+  "file": "angebot_0032.pdf",
+  "pair_id": "0032",
+  "doc_type": "angebot",
+  "number": "AN-2026-0332",
+  "issue_date": "2026-06-24",
+  "customer_no": "K-93756",
+  "valid_until": "2026-07-24",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Tischlerei Fichtlhuber & Söhne GmbH",
+    "street": "Lindenstraße 3",
+    "postal_code": "96117",
+    "city": "Memmelsdorf",
+    "tax_number": "000/135/29096",
+    "vat_id": "DE000561014",
+    "iban": "DE00 4167 2434 2661 7979 68",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quantity": "1.5",
+      "unit": "Std.",
+      "unit_price": "75.00",
+      "total": "112.50"
+    },
+    {
+      "position": 2,
+      "description": "Einstellen von Scharnieren und Schubkastenführungen",
+      "quantity": "1",
+      "unit": "Std.",
+      "unit_price": "75.00",
+      "total": "75.00"
+    },
+    {
+      "position": 3,
+      "description": "Hartwachs-Reparaturset",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "31.13",
+      "total": "31.13"
+    },
+    {
+      "position": 4,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "8.25",
+      "total": "33.00"
+    },
+    {
+      "position": 5,
+      "description": "Fensterbank Schichtstoff, 250 mm tief",
+      "quantity": "2.4",
+      "unit": "lfm",
+      "unit_price": "50.47",
+      "total": "121.13"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "49.26",
+      "total": "49.26"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "50.89",
+      "total": "50.89"
+    }
+  ],
+  "net": "472.91",
+  "vat": "89.85",
+  "gross": "562.76",
+  "skonto_amount": null,
+  "deviations": null
+}

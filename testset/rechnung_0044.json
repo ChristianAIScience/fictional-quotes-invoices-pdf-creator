@@ -1,0 +1,94 @@
+{
+  "file": "rechnung_0044.pdf",
+  "pair_id": "0044",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0687",
+  "issue_date": "2026-09-13",
+  "customer_no": "K-62890",
+  "valid_until": null,
+  "performance_start": null,
+  "performance_end": "2026-09-05",
+  "due_date": "2026-09-27",
+  "quote_number": "AN-2026-0344",
+  "quote_date": "2026-08-24",
+  "sender": {
+    "company": "Schreinermeister Stefan Spanmeier",
+    "street": "Am Sägewerk 20",
+    "postal_code": "96215",
+    "city": "Lichtenfels",
+    "tax_number": "000/691/37367",
+    "vat_id": "DE000850821",
+    "iban": "DE00 9960 6530 7450 5444 71",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Büros 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Austausch beschädigter Arbeitsplattenkante",
+      "quantity": "1.5",
+      "unit": "Std.",
+      "unit_price": "67.00",
+      "total": "100.50"
+    },
+    {
+      "position": 2,
+      "description": "Einstellen von Scharnieren und Schubkastenführungen",
+      "quantity": "1",
+      "unit": "Std.",
+      "unit_price": "67.00",
+      "total": "67.00"
+    },
+    {
+      "position": 3,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "8.38",
+      "total": "33.52"
+    },
+    {
+      "position": 4,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "5.5",
+      "unit": "lfm",
+      "unit_price": "2.44",
+      "total": "13.42"
+    },
+    {
+      "position": 5,
+      "description": "Schubkastenführung Vollauszug, Paar",
+      "quantity": "2",
+      "unit": "Stk.",
+      "unit_price": "41.01",
+      "total": "82.02"
+    },
+    {
+      "position": 6,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "34.81",
+      "total": "34.81"
+    },
+    {
+      "position": 7,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "108.08",
+      "total": "108.08"
+    }
+  ],
+  "net": "439.35",
+  "vat": "83.48",
+  "gross": "522.83",
+  "skonto_amount": null,
+  "deviations": []
+}

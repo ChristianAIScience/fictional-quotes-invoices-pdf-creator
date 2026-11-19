@@ -1,0 +1,118 @@
+{
+  "file": "angebot_0002.pdf",
+  "pair_id": "0002",
+  "doc_type": "angebot",
+  "number": "AN-2025-0302",
+  "issue_date": "2025-11-29",
+  "customer_no": "K-83465",
+  "valid_until": "2025-12-29",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Schreinermeister Michael Riegelsperger",
+    "street": "Hauptstraße 8",
+    "postal_code": "96215",
+    "city": "Lichtenfels",
+    "tax_number": "000/391/17182",
+    "vat_id": "DE000278248",
+    "iban": "DE00 7048 2814 8932 5288 09",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Flur 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Aufmaß und Planung",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "177.50"
+    },
+    {
+      "position": 2,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "10",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "710.00"
+    },
+    {
+      "position": 3,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "5",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "355.00"
+    },
+    {
+      "position": 4,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "9",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "639.00"
+    },
+    {
+      "position": 5,
+      "description": "Drehtürbeschläge mit Dämpfung",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "6.66",
+      "total": "59.94"
+    },
+    {
+      "position": 6,
+      "description": "Spanplatte melaminbeschichtet 19 mm, lichtgrau",
+      "quantity": "15",
+      "unit": "m²",
+      "unit_price": "24.72",
+      "total": "370.80"
+    },
+    {
+      "position": 7,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "8",
+      "unit": "lfm",
+      "unit_price": "16.43",
+      "total": "131.44"
+    },
+    {
+      "position": 8,
+      "description": "Fachbodenträger Metall",
+      "quantity": "56",
+      "unit": "Stk.",
+      "unit_price": "0.56",
+      "total": "31.36"
+    },
+    {
+      "position": 9,
+      "description": "Multiplex Birke 18 mm für Fachböden",
+      "quantity": "6.5",
+      "unit": "m²",
+      "unit_price": "62.38",
+      "total": "405.47"
+    },
+    {
+      "position": 10,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "64.62",
+      "total": "64.62"
+    }
+  ],
+  "net": "2945.13",
+  "vat": "559.57",
+  "gross": "3504.70",
+  "skonto_amount": null,
+  "deviations": null
+}

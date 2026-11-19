@@ -1,0 +1,102 @@
+{
+  "file": "rechnung_0035.pdf",
+  "pair_id": "0035",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0678",
+  "issue_date": "2026-08-27",
+  "customer_no": "K-75001",
+  "valid_until": null,
+  "performance_start": "2026-08-17",
+  "performance_end": "2026-08-20",
+  "due_date": "2026-09-10",
+  "quote_number": "AN-2026-0335",
+  "quote_date": "2026-07-24",
+  "sender": {
+    "company": "Schreinermeister Thomas Furnierl",
+    "street": "Handwerkerhof 32",
+    "postal_code": "96110",
+    "city": "Scheßlitz",
+    "tax_number": "000/751/86363",
+    "vat_id": "DE000745458",
+    "iban": "DE00 2325 3672 9466 7116 84",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Besprechungsraum 2.10",
+  "items": [
+    {
+      "position": 1,
+      "description": "Einstellen von Scharnieren und Schubkastenführungen",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "155.00"
+    },
+    {
+      "position": 2,
+      "description": "Austausch einer beschädigten Fensterbank",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "186.00"
+    },
+    {
+      "position": 3,
+      "description": "Ausbessern von Kratzern und Abplatzungen an Möbeloberflächen",
+      "quantity": "1.5",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "93.00"
+    },
+    {
+      "position": 4,
+      "description": "Schubkastenführung Vollauszug, Paar",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "33.61",
+      "total": "33.61"
+    },
+    {
+      "position": 5,
+      "description": "Schmier- und Pflegemittel",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "18.70",
+      "total": "18.70"
+    },
+    {
+      "position": 6,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "4.5",
+      "unit": "lfm",
+      "unit_price": "2.12",
+      "total": "9.54"
+    },
+    {
+      "position": 7,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "62.21",
+      "total": "62.21"
+    },
+    {
+      "position": 8,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "99.93",
+      "total": "99.93"
+    }
+  ],
+  "net": "657.99",
+  "vat": "125.02",
+  "gross": "783.01",
+  "skonto_amount": null,
+  "deviations": []
+}

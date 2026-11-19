@@ -1,0 +1,110 @@
+{
+  "file": "angebot_0043.pdf",
+  "pair_id": "0043",
+  "doc_type": "angebot",
+  "number": "AN-2026-0343",
+  "issue_date": "2026-08-20",
+  "customer_no": "K-29451",
+  "valid_until": "2026-09-19",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Tischlerei Sägmüllner",
+    "street": "Gewerbering 26",
+    "postal_code": "91301",
+    "city": "Forchheim",
+    "tax_number": "000/899/21722",
+    "vat_id": "DE000332061",
+    "iban": "DE00 0211 5869 3806 8687 93",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Archiv EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "6",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "426.00"
+    },
+    {
+      "position": 2,
+      "description": "Anpassen an Decke und Wand, Montage der Passleisten",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "213.00"
+    },
+    {
+      "position": 3,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "9",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "639.00"
+    },
+    {
+      "position": 4,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "17",
+      "unit": "Std.",
+      "unit_price": "71.00",
+      "total": "1207.00"
+    },
+    {
+      "position": 5,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "5",
+      "unit": "lfm",
+      "unit_price": "19.80",
+      "total": "99.00"
+    },
+    {
+      "position": 6,
+      "description": "Spanplatte melaminbeschichtet 19 mm, lichtgrau",
+      "quantity": "19",
+      "unit": "m²",
+      "unit_price": "29.96",
+      "total": "569.24"
+    },
+    {
+      "position": 7,
+      "description": "Drehtürbeschläge mit Dämpfung",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "7.04",
+      "total": "63.36"
+    },
+    {
+      "position": 8,
+      "description": "Multiplex Birke 18 mm für Fachböden",
+      "quantity": "3.5",
+      "unit": "m²",
+      "unit_price": "74.09",
+      "total": "259.32"
+    },
+    {
+      "position": 9,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "56.93",
+      "total": "56.93"
+    }
+  ],
+  "net": "3532.85",
+  "vat": "671.24",
+  "gross": "4204.09",
+  "skonto_amount": null,
+  "deviations": null
+}

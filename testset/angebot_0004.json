@@ -1,0 +1,118 @@
+{
+  "file": "angebot_0004.pdf",
+  "pair_id": "0004",
+  "doc_type": "angebot",
+  "number": "AN-2025-0304",
+  "issue_date": "2025-12-06",
+  "customer_no": "K-05242",
+  "valid_until": "2026-01-05",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Leimgruber Möbelbau GmbH",
+    "street": "Lindenstraße 20",
+    "postal_code": "91074",
+    "city": "Herzogenaurach",
+    "tax_number": "000/118/24493",
+    "vat_id": "DE000534874",
+    "iban": "DE00 1183 8425 1354 2784 98",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage einer Teeküche",
+  "location": "Sozialraum 2. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "4.5",
+      "unit": "Std.",
+      "unit_price": "66.00",
+      "total": "297.00"
+    },
+    {
+      "position": 2,
+      "description": "Zuschnitt und Montage der Arbeitsplatte inkl. Ausschnitte für Spüle und Kochfeld",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "66.00",
+      "total": "198.00"
+    },
+    {
+      "position": 3,
+      "description": "Montage der Unter- und Oberschränke vor Ort",
+      "quantity": "11.5",
+      "unit": "Std.",
+      "unit_price": "66.00",
+      "total": "759.00"
+    },
+    {
+      "position": 4,
+      "description": "Aufmaß und Detailplanung vor Ort",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "66.00",
+      "total": "165.00"
+    },
+    {
+      "position": 5,
+      "description": "Griffleisten Aluminium, 160 mm",
+      "quantity": "12",
+      "unit": "Stk.",
+      "unit_price": "9.76",
+      "total": "117.12"
+    },
+    {
+      "position": 6,
+      "description": "Arbeitsplatte Schichtstoff 38 mm, Eiche-Dekor",
+      "quantity": "2.5",
+      "unit": "lfm",
+      "unit_price": "124.31",
+      "total": "310.78"
+    },
+    {
+      "position": 7,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "13",
+      "unit": "Stk.",
+      "unit_price": "7.77",
+      "total": "101.01"
+    },
+    {
+      "position": 8,
+      "description": "Frontplatten MDF lackiert, matt",
+      "quantity": "4.5",
+      "unit": "m²",
+      "unit_price": "99.48",
+      "total": "447.66"
+    },
+    {
+      "position": 9,
+      "description": "Spanplatte melaminbeschichtet 19 mm, weiß",
+      "quantity": "14.5",
+      "unit": "m²",
+      "unit_price": "30.35",
+      "total": "440.08"
+    },
+    {
+      "position": 10,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "44.69",
+      "total": "44.69"
+    }
+  ],
+  "net": "2880.34",
+  "vat": "547.26",
+  "gross": "3427.60",
+  "skonto_amount": null,
+  "deviations": null
+}

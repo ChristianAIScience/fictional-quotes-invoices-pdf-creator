@@ -1,0 +1,134 @@
+{
+  "file": "angebot_0048.pdf",
+  "pair_id": "0048",
+  "doc_type": "angebot",
+  "number": "AN-2026-0348",
+  "issue_date": "2026-09-20",
+  "customer_no": "K-02255",
+  "valid_until": "2026-10-20",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Tischlerei Hobelsberger",
+    "street": "Am Sägewerk 6",
+    "postal_code": "91074",
+    "city": "Herzogenaurach",
+    "tax_number": "000/374/47012",
+    "vat_id": "DE000045561",
+    "iban": "DE00 4835 6420 8737 5300 11",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage einer Teeküche",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Aufmaß und Detailplanung vor Ort",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "122.00"
+    },
+    {
+      "position": 2,
+      "description": "Montage der Unter- und Oberschränke vor Ort",
+      "quantity": "9",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "549.00"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung der Korpusse und Fronten in der Werkstatt",
+      "quantity": "18",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "1098.00"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "7.5",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "457.50"
+    },
+    {
+      "position": 5,
+      "description": "Sockelblende Kunststoff, Höhe 150 mm",
+      "quantity": "2.5",
+      "unit": "lfm",
+      "unit_price": "19.63",
+      "total": "49.08"
+    },
+    {
+      "position": 6,
+      "description": "Edelstahl-Einbauspüle inkl. Ablaufgarnitur",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "174.08",
+      "total": "174.08"
+    },
+    {
+      "position": 7,
+      "description": "Spritzschutz Glas ESG, rückseitig weiß lackiert",
+      "quantity": "2.5",
+      "unit": "m²",
+      "unit_price": "245.72",
+      "total": "614.30"
+    },
+    {
+      "position": 8,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "19",
+      "unit": "Stk.",
+      "unit_price": "8.74",
+      "total": "166.06"
+    },
+    {
+      "position": 9,
+      "description": "Frontplatten MDF lackiert, matt",
+      "quantity": "5",
+      "unit": "m²",
+      "unit_price": "110.03",
+      "total": "550.15"
+    },
+    {
+      "position": 10,
+      "description": "Spanplatte melaminbeschichtet 19 mm, weiß",
+      "quantity": "14",
+      "unit": "m²",
+      "unit_price": "31.97",
+      "total": "447.58"
+    },
+    {
+      "position": 11,
+      "description": "Griffleisten Aluminium, 160 mm",
+      "quantity": "13",
+      "unit": "Stk.",
+      "unit_price": "11.03",
+      "total": "143.39"
+    },
+    {
+      "position": 12,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "63.03",
+      "total": "63.03"
+    }
+  ],
+  "net": "4434.17",
+  "vat": "842.49",
+  "gross": "5276.66",
+  "skonto_amount": null,
+  "deviations": null
+}

@@ -1,0 +1,158 @@
+{
+  "file": "angebot_0017.pdf",
+  "pair_id": "0017",
+  "doc_type": "angebot",
+  "number": "AN-2026-0317",
+  "issue_date": "2026-03-24",
+  "customer_no": "K-99799",
+  "valid_until": "2026-04-23",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Schreinermeister Johannes Maserbach",
+    "street": "Am Sägewerk 5",
+    "postal_code": "96114",
+    "city": "Hirschaid",
+    "tax_number": "000/355/23124",
+    "vat_id": "DE000329212",
+    "iban": "DE00 0529 7516 1369 6816 45",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage eines Empfangstresens",
+  "location": "Foyer EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Fertigung von Unterkonstruktion und Korpus in der Werkstatt",
+      "quantity": "26",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "1898.00"
+    },
+    {
+      "position": 2,
+      "description": "Anlieferung und Montage vor Ort",
+      "quantity": "8",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "584.00"
+    },
+    {
+      "position": 3,
+      "description": "Entwurf, Aufmaß und Detailplanung",
+      "quantity": "6",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "438.00"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "4",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "292.00"
+    },
+    {
+      "position": 5,
+      "description": "Furnier- und Oberflächenarbeiten, Lackierung",
+      "quantity": "10.5",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "766.50"
+    },
+    {
+      "position": 6,
+      "description": "Eichenfurnier, Echtholz, inkl. Verleimung",
+      "quantity": "6",
+      "unit": "m²",
+      "unit_price": "78.14",
+      "total": "468.84"
+    },
+    {
+      "position": 7,
+      "description": "Mineralwerkstoff-Abdeckplatte 12 mm",
+      "quantity": "2.2",
+      "unit": "m²",
+      "unit_price": "394.79",
+      "total": "868.54"
+    },
+    {
+      "position": 8,
+      "description": "Kabeldurchlässe Aluminium, Ø 80 mm",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "18.08",
+      "total": "72.32"
+    },
+    {
+      "position": 9,
+      "description": "2K-Klarlack, seidenmatt",
+      "quantity": "4",
+      "unit": "l",
+      "unit_price": "35.87",
+      "total": "143.48"
+    },
+    {
+      "position": 10,
+      "description": "MDF-Platte 19 mm für Korpus",
+      "quantity": "9.5",
+      "unit": "m²",
+      "unit_price": "23.94",
+      "total": "227.43"
+    },
+    {
+      "position": 11,
+      "description": "LED-Lichtleiste inkl. Netzteil",
+      "quantity": "4",
+      "unit": "lfm",
+      "unit_price": "46.68",
+      "total": "186.72"
+    },
+    {
+      "position": 12,
+      "description": "Höhenverstellbare Stellfüße",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "7.42",
+      "total": "66.78"
+    },
+    {
+      "position": 13,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "48.16",
+      "total": "48.16"
+    },
+    {
+      "position": 14,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "56.07",
+      "total": "56.07"
+    },
+    {
+      "position": 15,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "45.13",
+      "total": "45.13"
+    }
+  ],
+  "net": "6161.97",
+  "vat": "1170.77",
+  "gross": "7332.74",
+  "skonto_amount": null,
+  "deviations": null
+}

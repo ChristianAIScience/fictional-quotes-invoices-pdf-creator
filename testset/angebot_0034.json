@@ -1,0 +1,134 @@
+{
+  "file": "angebot_0034.pdf",
+  "pair_id": "0034",
+  "doc_type": "angebot",
+  "number": "AN-2026-0334",
+  "issue_date": "2026-07-16",
+  "customer_no": "K-83613",
+  "valid_until": "2026-08-15",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Zirbelmoser Möbelbau GmbH",
+    "street": "Gewerbering 37",
+    "postal_code": "91301",
+    "city": "Forchheim",
+    "tax_number": "000/438/42797",
+    "vat_id": "DE000881914",
+    "iban": "DE00 2579 0507 2368 8767 67",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage eines Empfangstresens",
+  "location": "Foyer EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Anlieferung und Montage vor Ort",
+      "quantity": "9.5",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "560.50"
+    },
+    {
+      "position": 2,
+      "description": "Furnier- und Oberflächenarbeiten, Lackierung",
+      "quantity": "8.5",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "501.50"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung von Unterkonstruktion und Korpus in der Werkstatt",
+      "quantity": "28",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "1652.00"
+    },
+    {
+      "position": 4,
+      "description": "Entwurf, Aufmaß und Detailplanung",
+      "quantity": "5.5",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "324.50"
+    },
+    {
+      "position": 5,
+      "description": "2K-Klarlack, seidenmatt",
+      "quantity": "2.5",
+      "unit": "l",
+      "unit_price": "40.61",
+      "total": "101.53"
+    },
+    {
+      "position": 6,
+      "description": "Schubkastenelement mit Schloss",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "209.29",
+      "total": "209.29"
+    },
+    {
+      "position": 7,
+      "description": "Höhenverstellbare Stellfüße",
+      "quantity": "7",
+      "unit": "Stk.",
+      "unit_price": "5.55",
+      "total": "38.85"
+    },
+    {
+      "position": 8,
+      "description": "LED-Lichtleiste inkl. Netzteil",
+      "quantity": "2",
+      "unit": "lfm",
+      "unit_price": "68.35",
+      "total": "136.70"
+    },
+    {
+      "position": 9,
+      "description": "Kabeldurchlässe Aluminium, Ø 80 mm",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "17.45",
+      "total": "52.35"
+    },
+    {
+      "position": 10,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "57.06",
+      "total": "57.06"
+    },
+    {
+      "position": 11,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "38.97",
+      "total": "38.97"
+    },
+    {
+      "position": 12,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "78.80",
+      "total": "78.80"
+    }
+  ],
+  "net": "3752.05",
+  "vat": "712.89",
+  "gross": "4464.94",
+  "skonto_amount": null,
+  "deviations": null
+}

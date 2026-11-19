@@ -1,0 +1,150 @@
+{
+  "file": "rechnung_0026.pdf",
+  "pair_id": "0026",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0669",
+  "issue_date": "2026-07-01",
+  "customer_no": "K-01742",
+  "valid_until": null,
+  "performance_start": null,
+  "performance_end": "2026-06-29",
+  "due_date": "2026-07-15",
+  "quote_number": "AN-2026-0326",
+  "quote_date": "2026-05-31",
+  "sender": {
+    "company": "Riegelsperger Möbelbau GmbH",
+    "street": "Werkstraße 33",
+    "postal_code": "95326",
+    "city": "Kulmbach",
+    "tax_number": "000/227/53046",
+    "vat_id": "DE000374549",
+    "iban": "DE00 7287 4315 2742 0549 32",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Flur 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Aufmaß und Planung",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "69.00",
+      "total": "138.00"
+    },
+    {
+      "position": 2,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "6",
+      "unit": "Std.",
+      "unit_price": "69.00",
+      "total": "414.00"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "17.5",
+      "unit": "Std.",
+      "unit_price": "69.00",
+      "total": "1207.50"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "3.5",
+      "unit": "Std.",
+      "unit_price": "69.00",
+      "total": "241.50"
+    },
+    {
+      "position": 5,
+      "description": "Fachbodenträger Metall",
+      "quantity": "52",
+      "unit": "Stk.",
+      "unit_price": "0.56",
+      "total": "29.12"
+    },
+    {
+      "position": 6,
+      "description": "Drehtürbeschläge mit Dämpfung",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "9.19",
+      "total": "82.71"
+    },
+    {
+      "position": 7,
+      "description": "Möbelgriffe Edelstahl, 128 mm",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "9.60",
+      "total": "86.40"
+    },
+    {
+      "position": 8,
+      "description": "Möbelschlösser mit Zylinder, gleichschließend",
+      "quantity": "5",
+      "unit": "Stk.",
+      "unit_price": "19.59",
+      "total": "97.95"
+    },
+    {
+      "position": 9,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "8.5",
+      "unit": "lfm",
+      "unit_price": "15.14",
+      "total": "128.69"
+    },
+    {
+      "position": 10,
+      "description": "ABS-Kantenband 23 mm",
+      "quantity": "40",
+      "unit": "lfm",
+      "unit_price": "1.90",
+      "total": "76.00"
+    },
+    {
+      "position": 11,
+      "description": "Spanplatte melaminbeschichtet 19 mm, lichtgrau",
+      "quantity": "18",
+      "unit": "m²",
+      "unit_price": "26.07",
+      "total": "469.26"
+    },
+    {
+      "position": 12,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "41.13",
+      "total": "41.13"
+    },
+    {
+      "position": 13,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "57.62",
+      "total": "57.62"
+    },
+    {
+      "position": 14,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "68.65",
+      "total": "68.65"
+    }
+  ],
+  "net": "3138.53",
+  "vat": "596.32",
+  "gross": "3734.85",
+  "skonto_amount": null,
+  "deviations": []
+}

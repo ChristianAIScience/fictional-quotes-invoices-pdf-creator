@@ -1,0 +1,134 @@
+{
+  "file": "angebot_0022.pdf",
+  "pair_id": "0022",
+  "doc_type": "angebot",
+  "number": "AN-2026-0322",
+  "issue_date": "2026-05-14",
+  "customer_no": "K-53584",
+  "valid_until": "2026-06-13",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Tischlerei Kantwerger",
+    "street": "Am Sägewerk 21",
+    "postal_code": "96110",
+    "city": "Scheßlitz",
+    "tax_number": "000/852/89226",
+    "vat_id": "DE000801824",
+    "iban": "DE00 7058 9578 2911 4678 66",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Archiv EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "19.5",
+      "unit": "Std.",
+      "unit_price": "63.00",
+      "total": "1228.50"
+    },
+    {
+      "position": 2,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "9",
+      "unit": "Std.",
+      "unit_price": "63.00",
+      "total": "567.00"
+    },
+    {
+      "position": 3,
+      "description": "Aufmaß und Planung",
+      "quantity": "1.5",
+      "unit": "Std.",
+      "unit_price": "63.00",
+      "total": "94.50"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "5",
+      "unit": "Std.",
+      "unit_price": "63.00",
+      "total": "315.00"
+    },
+    {
+      "position": 5,
+      "description": "ABS-Kantenband 23 mm",
+      "quantity": "85",
+      "unit": "lfm",
+      "unit_price": "1.25",
+      "total": "106.25"
+    },
+    {
+      "position": 6,
+      "description": "Multiplex Birke 18 mm für Fachböden",
+      "quantity": "3",
+      "unit": "m²",
+      "unit_price": "59.66",
+      "total": "178.98"
+    },
+    {
+      "position": 7,
+      "description": "Fachbodenträger Metall",
+      "quantity": "40",
+      "unit": "Stk.",
+      "unit_price": "0.65",
+      "total": "26.00"
+    },
+    {
+      "position": 8,
+      "description": "Möbelschlösser mit Zylinder, gleichschließend",
+      "quantity": "5",
+      "unit": "Stk.",
+      "unit_price": "22.31",
+      "total": "111.55"
+    },
+    {
+      "position": 9,
+      "description": "Möbelgriffe Edelstahl, 128 mm",
+      "quantity": "12",
+      "unit": "Stk.",
+      "unit_price": "9.82",
+      "total": "117.84"
+    },
+    {
+      "position": 10,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "61.17",
+      "total": "61.17"
+    },
+    {
+      "position": 11,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "59.69",
+      "total": "59.69"
+    },
+    {
+      "position": 12,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "84.49",
+      "total": "84.49"
+    }
+  ],
+  "net": "2950.97",
+  "vat": "560.68",
+  "gross": "3511.65",
+  "skonto_amount": null,
+  "deviations": null
+}

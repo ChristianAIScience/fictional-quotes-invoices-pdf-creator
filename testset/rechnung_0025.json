@@ -1,0 +1,135 @@
+{
+  "file": "rechnung_0025.pdf",
+  "pair_id": "0025",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0668",
+  "issue_date": "2026-06-08",
+  "customer_no": "K-83301",
+  "valid_until": null,
+  "performance_start": "2026-05-23",
+  "performance_end": "2026-05-29",
+  "due_date": "2026-06-22",
+  "quote_number": "AN-2026-0325",
+  "quote_date": "2026-05-21",
+  "sender": {
+    "company": "Tischlerei Riegelsperger & Söhne GmbH",
+    "street": "Werkstraße 53",
+    "postal_code": "91301",
+    "city": "Forchheim",
+    "tax_number": "000/415/74733",
+    "vat_id": "DE000848421",
+    "iban": "DE00 7334 8434 4375 7584 41",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage einer Teeküche",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Zuschnitt und Montage der Arbeitsplatte inkl. Ausschnitte für Spüle und Kochfeld",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "195.00"
+    },
+    {
+      "position": 2,
+      "description": "Aufmaß und Detailplanung vor Ort",
+      "quantity": "4",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "260.00"
+    },
+    {
+      "position": 3,
+      "description": "Montage der Unter- und Oberschränke vor Ort",
+      "quantity": "7",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "455.00"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "7",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "455.00"
+    },
+    {
+      "position": 5,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "19",
+      "unit": "Stk.",
+      "unit_price": "7.68",
+      "total": "145.92"
+    },
+    {
+      "position": 6,
+      "description": "Sockelblende Kunststoff, Höhe 150 mm",
+      "quantity": "4.1",
+      "unit": "lfm",
+      "unit_price": "25.56",
+      "total": "104.80"
+    },
+    {
+      "position": 7,
+      "description": "Arbeitsplatte Schichtstoff 38 mm, Eiche-Dekor",
+      "quantity": "2.5",
+      "unit": "lfm",
+      "unit_price": "109.34",
+      "total": "273.35"
+    },
+    {
+      "position": 8,
+      "description": "Griffleisten Aluminium, 160 mm",
+      "quantity": "14",
+      "unit": "Stk.",
+      "unit_price": "12.41",
+      "total": "173.74"
+    },
+    {
+      "position": 9,
+      "description": "Schubkastensystem Vollauszug mit Softeinzug",
+      "quantity": "2",
+      "unit": "Stk.",
+      "unit_price": "66.48",
+      "total": "132.96"
+    },
+    {
+      "position": 10,
+      "description": "Spritzschutz Glas ESG, rückseitig weiß lackiert",
+      "quantity": "2.2",
+      "unit": "m²",
+      "unit_price": "244.54",
+      "total": "537.99"
+    },
+    {
+      "position": 11,
+      "description": "Spanplatte melaminbeschichtet 19 mm, weiß",
+      "quantity": "15.5",
+      "unit": "m²",
+      "unit_price": "25.90",
+      "total": "401.45"
+    }
+  ],
+  "net": "3135.21",
+  "vat": "595.69",
+  "gross": "3730.90",
+  "skonto_amount": "74.62",
+  "deviations": [
+    {
+      "type": "item_missing",
+      "quote_position": 5,
+      "invoice_position": null,
+      "description": "Edelstahl-Einbauspüle inkl. Ablaufgarnitur",
+      "quote_value": null,
+      "invoice_value": null
+    }
+  ]
+}

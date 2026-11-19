@@ -1,0 +1,102 @@
+{
+  "file": "rechnung_0023.pdf",
+  "pair_id": "0023",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0666",
+  "issue_date": "2026-06-01",
+  "customer_no": "K-73395",
+  "valid_until": null,
+  "performance_start": "2026-05-18",
+  "performance_end": "2026-05-23",
+  "due_date": "2026-06-15",
+  "quote_number": "AN-2026-0323",
+  "quote_date": "2026-05-14",
+  "sender": {
+    "company": "Spanmeier Möbelbau GmbH",
+    "street": "Industriestraße 10",
+    "postal_code": "96215",
+    "city": "Lichtenfels",
+    "tax_number": "000/963/25953",
+    "vat_id": "DE000278774",
+    "iban": "DE00 7359 2555 6258 8153 71",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Büros 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "70.00",
+      "total": "140.00"
+    },
+    {
+      "position": 2,
+      "description": "Ausbessern von Kratzern und Abplatzungen an Möbeloberflächen",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "70.00",
+      "total": "210.00"
+    },
+    {
+      "position": 3,
+      "description": "Fensterbank Schichtstoff, 250 mm tief",
+      "quantity": "2.3",
+      "unit": "lfm",
+      "unit_price": "47.48",
+      "total": "109.20"
+    },
+    {
+      "position": 4,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "8.37",
+      "total": "33.48"
+    },
+    {
+      "position": 5,
+      "description": "Schmier- und Pflegemittel",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "15.74",
+      "total": "15.74"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "37.09",
+      "total": "37.09"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "30.94",
+      "total": "30.94"
+    },
+    {
+      "position": 8,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "82.28",
+      "total": "82.28"
+    }
+  ],
+  "net": "658.73",
+  "vat": "125.16",
+  "gross": "783.89",
+  "skonto_amount": "15.68",
+  "deviations": []
+}

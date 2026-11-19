@@ -1,0 +1,142 @@
+{
+  "file": "rechnung_0029.pdf",
+  "pair_id": "0029",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0672",
+  "issue_date": "2026-07-08",
+  "customer_no": "K-62312",
+  "valid_until": null,
+  "performance_start": null,
+  "performance_end": "2026-07-04",
+  "due_date": "2026-07-22",
+  "quote_number": "AN-2026-0329",
+  "quote_date": "2026-06-13",
+  "sender": {
+    "company": "Tischlerei Brettlhuber",
+    "street": "Lindenstraße 42",
+    "postal_code": "96106",
+    "city": "Ebern",
+    "tax_number": "000/772/52287",
+    "vat_id": "DE000280801",
+    "iban": "DE00 6093 2048 9964 2353 69",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage einer Teeküche",
+  "location": "Teeküche 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "4",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "236.00"
+    },
+    {
+      "position": 2,
+      "description": "Zuschnitt und Montage der Arbeitsplatte inkl. Ausschnitte für Spüle und Kochfeld",
+      "quantity": "5",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "295.00"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung der Korpusse und Fronten in der Werkstatt",
+      "quantity": "22",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "1298.00"
+    },
+    {
+      "position": 4,
+      "description": "Edelstahl-Einbauspüle inkl. Ablaufgarnitur",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "183.88",
+      "total": "183.88"
+    },
+    {
+      "position": 5,
+      "description": "Spanplatte melaminbeschichtet 19 mm, weiß",
+      "quantity": "12.5",
+      "unit": "m²",
+      "unit_price": "24.17",
+      "total": "302.13"
+    },
+    {
+      "position": 6,
+      "description": "Spritzschutz Glas ESG, rückseitig weiß lackiert",
+      "quantity": "2.3",
+      "unit": "m²",
+      "unit_price": "246.04",
+      "total": "565.89"
+    },
+    {
+      "position": 7,
+      "description": "Schubkastensystem Vollauszug mit Softeinzug",
+      "quantity": "2",
+      "unit": "Stk.",
+      "unit_price": "69.38",
+      "total": "138.76"
+    },
+    {
+      "position": 8,
+      "description": "Griffleisten Aluminium, 160 mm",
+      "quantity": "9",
+      "unit": "Stk.",
+      "unit_price": "10.58",
+      "total": "95.22"
+    },
+    {
+      "position": 9,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "12",
+      "unit": "Stk.",
+      "unit_price": "7.73",
+      "total": "92.76"
+    },
+    {
+      "position": 10,
+      "description": "Sockelblende Kunststoff, Höhe 150 mm",
+      "quantity": "3",
+      "unit": "lfm",
+      "unit_price": "24.34",
+      "total": "73.02"
+    },
+    {
+      "position": 11,
+      "description": "Arbeitsplatte Schichtstoff 38 mm, Eiche-Dekor",
+      "quantity": "4",
+      "unit": "lfm",
+      "unit_price": "115.67",
+      "total": "462.68"
+    },
+    {
+      "position": 12,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "45.94",
+      "total": "45.94"
+    },
+    {
+      "position": 13,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "101.52",
+      "total": "101.52"
+    }
+  ],
+  "net": "3890.80",
+  "vat": "739.25",
+  "gross": "4630.05",
+  "skonto_amount": "92.60",
+  "deviations": []
+}

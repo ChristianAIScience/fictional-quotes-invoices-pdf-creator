@@ -1,0 +1,55 @@
+# Component lists for generating fictional joinery (Schreinerei/Tischlerei) sender profiles.
+# Surnames are invented on purpose, so generated company names do not match real businesses.
+
+surnames = [
+  "Fichtlhuber", "Spanmeier", "Leimgruber", "Hobelsberger", "Astlmayr", "Zirbelmoser",
+  "Dübelreiter", "Kantwerger", "Lärchinger", "Eschwaldner", "Riegelsperger", "Zapfenhuber",
+  "Maserbach", "Furnierl", "Sägmüllner", "Brettlhuber",
+]
+
+first_names = [
+  "Anna", "Thomas", "Julia", "Michael", "Sabine", "Stefan", "Katrin", "Andreas",
+  "Lena", "Markus", "Petra", "Florian", "Monika", "Johannes", "Claudia", "Tobias",
+]
+
+# legal_form "einzel" = sole proprietorship (Inhaber, no register entry),
+# "gmbh" = GmbH (Geschäftsführer, Handelsregister entry).
+name_patterns = [
+  { pattern = "Schreinerei {surname}", legal_form = "einzel" },
+  { pattern = "Tischlerei {surname}", legal_form = "einzel" },
+  { pattern = "Schreinermeister {first} {surname}", legal_form = "einzel" },
+  { pattern = "{surname} Möbelbau GmbH", legal_form = "gmbh" },
+  { pattern = "Holzwerkstatt {surname} GmbH", legal_form = "gmbh" },
+  { pattern = "Tischlerei {surname} & Söhne GmbH", legal_form = "gmbh" },
+]
+
+streets = [
+  "Hauptstraße", "Gewerbering", "Am Sägewerk", "Industriestraße", "Bahnhofstraße",
+  "Mühlweg", "Werkstraße", "Handwerkerhof", "Lindenstraße", "Am Bauhof",
+]
+
+# Real Franconian towns with their correct postal code and responsible register court.
+towns = [
+  { city = "Hallstadt", postal_code = "96103", court = "Bamberg" },
+  { city = "Hirschaid", postal_code = "96114", court = "Bamberg" },
+  { city = "Scheßlitz", postal_code = "96110", court = "Bamberg" },
+  { city = "Memmelsdorf", postal_code = "96117", court = "Bamberg" },
+  { city = "Forchheim", postal_code = "91301", court = "Bamberg" },
+  { city = "Ebern", postal_code = "96106", court = "Bamberg" },
+  { city = "Lichtenfels", postal_code = "96215", court = "Coburg" },
+  { city = "Bad Staffelstein", postal_code = "96231", court = "Coburg" },
+  { city = "Kulmbach", postal_code = "95326", court = "Bayreuth" },
+  { city = "Herzogenaurach", postal_code = "91074", court = "Fürth" },
+]
+
+# Bundesnetzagentur "Drama Numbers" (reserved for media use): area code + 5-digit block, then 000-999.
+phone_blocks = ["030 23125", "069 90009", "040 66969"]
+
+banks = [
+  { name = "Musterbank Franken eG", bic = "MUSTDEM0XXX" },
+  { name = "Beispiel-Sparkasse Oberfranken", bic = "BSPLDEB0XXX" },
+  { name = "Volksbank Musterland eG", bic = "VBMLDEF0XXX" },
+]
+
+# Hourly rate range in EUR (net) for all labor items.
+hourly_rate = ["58", "75"]

@@ -1,0 +1,126 @@
+{
+  "file": "angebot_0005.pdf",
+  "pair_id": "0005",
+  "doc_type": "angebot",
+  "number": "AN-2025-0305",
+  "issue_date": "2025-12-20",
+  "customer_no": "K-06088",
+  "valid_until": "2026-01-19",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Tischlerei Riegelsperger & Söhne GmbH",
+    "street": "Mühlweg 42",
+    "postal_code": "96117",
+    "city": "Memmelsdorf",
+    "tax_number": "000/014/29401",
+    "vat_id": "DE000965569",
+    "iban": "DE00 2160 7337 5433 0365 41",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Austausch von Innentüren",
+  "location": "Besprechungsräume EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Einhängen und Einstellen der Türblätter",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "64.00",
+      "total": "192.00"
+    },
+    {
+      "position": 2,
+      "description": "Montage der Drückergarnituren und Türschließer",
+      "quantity": "3.5",
+      "unit": "Std.",
+      "unit_price": "64.00",
+      "total": "224.00"
+    },
+    {
+      "position": 3,
+      "description": "Demontage und Abtransport der Alttüren inkl. Zargen",
+      "quantity": "4.5",
+      "unit": "Std.",
+      "unit_price": "64.00",
+      "total": "288.00"
+    },
+    {
+      "position": 4,
+      "description": "Innentürblatt Röhrenspan, CPL weiß, 860 × 1985 mm",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "210.41",
+      "total": "841.64"
+    },
+    {
+      "position": 5,
+      "description": "Drückergarnitur Edelstahl mit Rosetten",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "45.85",
+      "total": "137.55"
+    },
+    {
+      "position": 6,
+      "description": "Einsteckschloss für Profilzylinder",
+      "quantity": "5",
+      "unit": "Stk.",
+      "unit_price": "20.80",
+      "total": "104.00"
+    },
+    {
+      "position": 7,
+      "description": "Obentürschließer mit Gleitschiene",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "175.48",
+      "total": "701.92"
+    },
+    {
+      "position": 8,
+      "description": "Holzumfassungszarge CPL weiß, passend",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "195.42",
+      "total": "586.26"
+    },
+    {
+      "position": 9,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "51.63",
+      "total": "51.63"
+    },
+    {
+      "position": 10,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "15.03",
+      "total": "15.03"
+    },
+    {
+      "position": 11,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "69.43",
+      "total": "69.43"
+    }
+  ],
+  "net": "3211.46",
+  "vat": "610.18",
+  "gross": "3821.64",
+  "skonto_amount": null,
+  "deviations": null
+}

@@ -1,0 +1,40 @@
+# Component lists for generating fictional joinery (Schreinerei/Tischlerei) sender profiles.
+# Surnames are invented on purpose, so generated company names do not match real businesses.
+
+surnames = [
+  "Eberwachs", "Tannreich", "Holzwald",
+]
+
+first_names = [
+  "Lukas", "Mara", "Ben",
+]
+
+# legal_form "einzel" = sole proprietorship (Inhaber, no register entry),
+# "gmbh" = GmbH (Geschäftsführer, Handelsregister entry).
+name_patterns = [
+  { pattern = "Schreinerei {surname}", legal_form = "einzel" },
+  { pattern = "{first} {surname} Holzwerk", legal_form = "einzel" },
+  { pattern = "Tischlerei {surname} GmbH", legal_form = "gmbh" },
+]
+
+streets = [
+  "Bergstraße", "Gartenweg", "Mühlenweg",
+]
+
+# Real Franconian towns with their correct postal code and responsible register court.
+towns = [
+  { city = "Bamberg", postal_code = "96047", court = "Bamberg" },
+  { city = "Nürnberg", postal_code = "90402", court = "Nürnberg" },
+  { city = "Würzburg", postal_code = "97070", court = "Würzburg" },
+]
+
+# Bundesnetzagentur "Drama Numbers" (reserved for media use): area code + 5-digit block, then 000-999.
+phone_blocks = ["030 23125", "069 90009", "040 66969"]
+
+banks = [
+  { name = "Musterbank Mainfranken", bic = "MUBADEM0XXX" },
+  { name = "Beispielbank Franken", bic = "BEISDEB0ABC" },
+]
+
+# Hourly rate range in EUR (net) for all labor items.
+hourly_rate = ["48", "68"]

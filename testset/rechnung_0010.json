@@ -1,0 +1,134 @@
+{
+  "file": "rechnung_0010.pdf",
+  "pair_id": "0010",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0653",
+  "issue_date": "2026-01-29",
+  "customer_no": "K-78742",
+  "valid_until": null,
+  "performance_start": "2026-01-20",
+  "performance_end": "2026-01-26",
+  "due_date": "2026-02-12",
+  "quote_number": "AN-2026-0310",
+  "quote_date": "2026-01-18",
+  "sender": {
+    "company": "Tischlerei Sägmüllner & Söhne GmbH",
+    "street": "Bahnhofstraße 45",
+    "postal_code": "96117",
+    "city": "Memmelsdorf",
+    "tax_number": "000/771/90659",
+    "vat_id": "DE000401399",
+    "iban": "DE00 9361 8324 2102 4994 71",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Flur 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Aufmaß und Planung",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "147.50"
+    },
+    {
+      "position": 2,
+      "description": "Anpassen an Decke und Wand, Montage der Passleisten",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "177.00"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "11.5",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "678.50"
+    },
+    {
+      "position": 4,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "6",
+      "unit": "Std.",
+      "unit_price": "59.00",
+      "total": "354.00"
+    },
+    {
+      "position": 5,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "4",
+      "unit": "lfm",
+      "unit_price": "18.65",
+      "total": "74.60"
+    },
+    {
+      "position": 6,
+      "description": "Fachbodenträger Metall",
+      "quantity": "44",
+      "unit": "Stk.",
+      "unit_price": "0.45",
+      "total": "19.80"
+    },
+    {
+      "position": 7,
+      "description": "Drehtürbeschläge mit Dämpfung",
+      "quantity": "12",
+      "unit": "Stk.",
+      "unit_price": "8.15",
+      "total": "97.80"
+    },
+    {
+      "position": 8,
+      "description": "ABS-Kantenband 23 mm",
+      "quantity": "45",
+      "unit": "lfm",
+      "unit_price": "1.71",
+      "total": "76.95"
+    },
+    {
+      "position": 9,
+      "description": "Möbelgriffe Edelstahl, 128 mm",
+      "quantity": "12",
+      "unit": "Stk.",
+      "unit_price": "9.53",
+      "total": "114.36"
+    },
+    {
+      "position": 10,
+      "description": "Möbelschlösser mit Zylinder, gleichschließend",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "27.46",
+      "total": "82.38"
+    },
+    {
+      "position": 11,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "42.68",
+      "total": "42.68"
+    },
+    {
+      "position": 12,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "55.83",
+      "total": "55.83"
+    }
+  ],
+  "net": "1921.40",
+  "vat": "365.07",
+  "gross": "2286.47",
+  "skonto_amount": null,
+  "deviations": []
+}

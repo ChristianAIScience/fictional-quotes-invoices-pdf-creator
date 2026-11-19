@@ -1,0 +1,102 @@
+{
+  "file": "rechnung_0006.pdf",
+  "pair_id": "0006",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0649",
+  "issue_date": "2026-01-08",
+  "customer_no": "K-89579",
+  "valid_until": null,
+  "performance_start": "2025-12-31",
+  "performance_end": "2026-01-05",
+  "due_date": "2026-01-22",
+  "quote_number": "AN-2025-0306",
+  "quote_date": "2025-12-25",
+  "sender": {
+    "company": "Sägmüllner Möbelbau GmbH",
+    "street": "Handwerkerhof 27",
+    "postal_code": "96117",
+    "city": "Memmelsdorf",
+    "tax_number": "000/763/20163",
+    "vat_id": "DE000287083",
+    "iban": "DE00 7214 8951 3433 2003 79",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Besprechungsraum 2.10",
+  "items": [
+    {
+      "position": 1,
+      "description": "Austausch einer beschädigten Fensterbank",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "72.00",
+      "total": "216.00"
+    },
+    {
+      "position": 2,
+      "description": "Ausbessern von Kratzern und Abplatzungen an Möbeloberflächen",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "72.00",
+      "total": "216.00"
+    },
+    {
+      "position": 3,
+      "description": "Einstellen von Scharnieren und Schubkastenführungen",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "72.00",
+      "total": "144.00"
+    },
+    {
+      "position": 4,
+      "description": "Schmier- und Pflegemittel",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "18.41",
+      "total": "18.41"
+    },
+    {
+      "position": 5,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "3.5",
+      "unit": "lfm",
+      "unit_price": "2.15",
+      "total": "7.53"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "64.22",
+      "total": "64.22"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "37.25",
+      "total": "37.25"
+    },
+    {
+      "position": 8,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "48.20",
+      "total": "48.20"
+    }
+  ],
+  "net": "751.61",
+  "vat": "142.81",
+  "gross": "894.42",
+  "skonto_amount": null,
+  "deviations": []
+}

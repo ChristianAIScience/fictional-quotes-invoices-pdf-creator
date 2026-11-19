@@ -1,0 +1,135 @@
+{
+  "file": "rechnung_0049.pdf",
+  "pair_id": "0049",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0692",
+  "issue_date": "2026-10-28",
+  "customer_no": "K-79717",
+  "valid_until": null,
+  "performance_start": null,
+  "performance_end": "2026-10-20",
+  "due_date": "2026-11-11",
+  "quote_number": "AN-2026-0349",
+  "quote_date": "2026-09-21",
+  "sender": {
+    "company": "Schreinerei Sägmüllner",
+    "street": "Hauptstraße 42",
+    "postal_code": "91301",
+    "city": "Forchheim",
+    "tax_number": "000/217/53540",
+    "vat_id": "DE000838663",
+    "iban": "DE00 5089 9358 8916 3756 28",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage eines Empfangstresens",
+  "location": "Foyer EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Entwurf, Aufmaß und Detailplanung",
+      "quantity": "9",
+      "unit": "Std.",
+      "unit_price": "60.00",
+      "total": "540.00"
+    },
+    {
+      "position": 2,
+      "description": "Anlieferung und Montage vor Ort",
+      "quantity": "9",
+      "unit": "Std.",
+      "unit_price": "60.00",
+      "total": "540.00"
+    },
+    {
+      "position": 3,
+      "description": "Furnier- und Oberflächenarbeiten, Lackierung",
+      "quantity": "8",
+      "unit": "Std.",
+      "unit_price": "60.00",
+      "total": "480.00"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "8",
+      "unit": "Std.",
+      "unit_price": "60.00",
+      "total": "480.00"
+    },
+    {
+      "position": 5,
+      "description": "Fertigung von Unterkonstruktion und Korpus in der Werkstatt",
+      "quantity": "24.5",
+      "unit": "Std.",
+      "unit_price": "60.00",
+      "total": "1470.00"
+    },
+    {
+      "position": 6,
+      "description": "Eichenfurnier, Echtholz, inkl. Verleimung",
+      "quantity": "8",
+      "unit": "m²",
+      "unit_price": "98.03",
+      "total": "784.24"
+    },
+    {
+      "position": 7,
+      "description": "Schubkastenelement mit Schloss",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "198.62",
+      "total": "198.62"
+    },
+    {
+      "position": 8,
+      "description": "LED-Lichtleiste inkl. Netzteil",
+      "quantity": "3.5",
+      "unit": "lfm",
+      "unit_price": "58.96",
+      "total": "206.36"
+    },
+    {
+      "position": 9,
+      "description": "2K-Klarlack, seidenmatt",
+      "quantity": "3",
+      "unit": "l",
+      "unit_price": "29.11",
+      "total": "87.33"
+    },
+    {
+      "position": 10,
+      "description": "Mineralwerkstoff-Abdeckplatte 12 mm",
+      "quantity": "1.5",
+      "unit": "m²",
+      "unit_price": "518.33",
+      "total": "777.50"
+    },
+    {
+      "position": 11,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "57.94",
+      "total": "57.94"
+    }
+  ],
+  "net": "5621.99",
+  "vat": "1068.18",
+  "gross": "6690.17",
+  "skonto_amount": "133.80",
+  "deviations": [
+    {
+      "type": "quantity_changed",
+      "quote_position": 1,
+      "invoice_position": 1,
+      "description": "Entwurf, Aufmaß und Detailplanung",
+      "quote_value": "7",
+      "invoice_value": "9"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "file": "angebot_0027.pdf",
+  "pair_id": "0027",
+  "doc_type": "angebot",
+  "number": "AN-2026-0327",
+  "issue_date": "2026-06-06",
+  "customer_no": "K-00478",
+  "valid_until": "2026-07-06",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Sägmüllner Möbelbau GmbH",
+    "street": "Gewerbering 60",
+    "postal_code": "96110",
+    "city": "Scheßlitz",
+    "tax_number": "000/226/56766",
+    "vat_id": "DE000182512",
+    "iban": "DE00 6790 8740 6403 9106 51",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Flur 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "12",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "744.00"
+    },
+    {
+      "position": 2,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "4",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "248.00"
+    },
+    {
+      "position": 3,
+      "description": "Anpassen an Decke und Wand, Montage der Passleisten",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "155.00"
+    },
+    {
+      "position": 4,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "5.5",
+      "unit": "Std.",
+      "unit_price": "62.00",
+      "total": "341.00"
+    },
+    {
+      "position": 5,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "5.5",
+      "unit": "lfm",
+      "unit_price": "14.68",
+      "total": "80.74"
+    },
+    {
+      "position": 6,
+      "description": "Möbelschlösser mit Zylinder, gleichschließend",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "18.68",
+      "total": "56.04"
+    },
+    {
+      "position": 7,
+      "description": "Spanplatte melaminbeschichtet 19 mm, lichtgrau",
+      "quantity": "17",
+      "unit": "m²",
+      "unit_price": "30.12",
+      "total": "512.04"
+    },
+    {
+      "position": 8,
+      "description": "Multiplex Birke 18 mm für Fachböden",
+      "quantity": "3",
+      "unit": "m²",
+      "unit_price": "63.01",
+      "total": "189.03"
+    },
+    {
+      "position": 9,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "51.47",
+      "total": "51.47"
+    },
+    {
+      "position": 10,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "59.21",
+      "total": "59.21"
+    },
+    {
+      "position": 11,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "44.24",
+      "total": "44.24"
+    }
+  ],
+  "net": "2480.77",
+  "vat": "471.35",
+  "gross": "2952.12",
+  "skonto_amount": null,
+  "deviations": null
+}

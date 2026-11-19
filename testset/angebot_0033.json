@@ -1,0 +1,94 @@
+{
+  "file": "angebot_0033.pdf",
+  "pair_id": "0033",
+  "doc_type": "angebot",
+  "number": "AN-2026-0333",
+  "issue_date": "2026-07-14",
+  "customer_no": "K-69691",
+  "valid_until": "2026-08-13",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Schreinermeister Anna Hobelsberger",
+    "street": "Am Bauhof 28",
+    "postal_code": "96114",
+    "city": "Hirschaid",
+    "tax_number": "000/419/18255",
+    "vat_id": "DE000371478",
+    "iban": "DE00 2382 8258 6736 2266 09",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Ausbessern von Kratzern und Abplatzungen an Möbeloberflächen",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "170.00"
+    },
+    {
+      "position": 2,
+      "description": "Austausch beschädigter Arbeitsplattenkante",
+      "quantity": "1",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "68.00"
+    },
+    {
+      "position": 3,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "136.00"
+    },
+    {
+      "position": 4,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "3.5",
+      "unit": "lfm",
+      "unit_price": "2.19",
+      "total": "7.67"
+    },
+    {
+      "position": 5,
+      "description": "Topfscharniere mit Dämpfung",
+      "quantity": "2",
+      "unit": "Stk.",
+      "unit_price": "7.43",
+      "total": "14.86"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "40.79",
+      "total": "40.79"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "49.26",
+      "total": "49.26"
+    }
+  ],
+  "net": "486.58",
+  "vat": "92.45",
+  "gross": "579.03",
+  "skonto_amount": null,
+  "deviations": null
+}

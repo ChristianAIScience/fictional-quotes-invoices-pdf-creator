@@ -1,0 +1,118 @@
+{
+  "file": "angebot_0011.pdf",
+  "pair_id": "0011",
+  "doc_type": "angebot",
+  "number": "AN-2026-0311",
+  "issue_date": "2026-02-10",
+  "customer_no": "K-78755",
+  "valid_until": "2026-03-12",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Schreinerei Sägmüllner",
+    "street": "Handwerkerhof 31",
+    "postal_code": "96103",
+    "city": "Hallstadt",
+    "tax_number": "000/639/82146",
+    "vat_id": "DE000584044",
+    "iban": "DE00 9324 8086 1317 1274 84",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Flur 1. OG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "9.5",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "693.50"
+    },
+    {
+      "position": 2,
+      "description": "Fertigung der Schrank- und Regalelemente in der Werkstatt",
+      "quantity": "16",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "1168.00"
+    },
+    {
+      "position": 3,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "3.5",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "255.50"
+    },
+    {
+      "position": 4,
+      "description": "Aufmaß und Planung",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "219.00"
+    },
+    {
+      "position": 5,
+      "description": "Fachbodenträger Metall",
+      "quantity": "64",
+      "unit": "Stk.",
+      "unit_price": "0.56",
+      "total": "35.84"
+    },
+    {
+      "position": 6,
+      "description": "Möbelgriffe Edelstahl, 128 mm",
+      "quantity": "12",
+      "unit": "Stk.",
+      "unit_price": "11.10",
+      "total": "133.20"
+    },
+    {
+      "position": 7,
+      "description": "Drehtürbeschläge mit Dämpfung",
+      "quantity": "10",
+      "unit": "Stk.",
+      "unit_price": "9.03",
+      "total": "90.30"
+    },
+    {
+      "position": 8,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "4",
+      "unit": "lfm",
+      "unit_price": "15.29",
+      "total": "61.16"
+    },
+    {
+      "position": 9,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "59.17",
+      "total": "59.17"
+    },
+    {
+      "position": 10,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "23.22",
+      "total": "23.22"
+    }
+  ],
+  "net": "2738.89",
+  "vat": "520.39",
+  "gross": "3259.28",
+  "skonto_amount": null,
+  "deviations": null
+}

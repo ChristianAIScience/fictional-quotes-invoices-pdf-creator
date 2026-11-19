@@ -1,0 +1,103 @@
+{
+  "file": "rechnung_0001.pdf",
+  "pair_id": "0001",
+  "doc_type": "rechnung",
+  "number": "RE-2025-0644",
+  "issue_date": "2025-12-17",
+  "customer_no": "K-84969",
+  "valid_until": null,
+  "performance_start": null,
+  "performance_end": "2025-12-08",
+  "due_date": "2025-12-31",
+  "quote_number": "AN-2025-0301",
+  "quote_date": "2025-11-28",
+  "sender": {
+    "company": "Tischlerei Zapfenhuber & Söhne GmbH",
+    "street": "Handwerkerhof 25",
+    "postal_code": "96114",
+    "city": "Hirschaid",
+    "tax_number": "000/030/56413",
+    "vat_id": "DE000953767",
+    "iban": "DE00 3413 1647 5255 3419 28",
+    "bic": "MUSTDEM0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Austausch beschädigter Arbeitsplattenkante",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "162.50"
+    },
+    {
+      "position": 2,
+      "description": "Austausch einer beschädigten Fensterbank",
+      "quantity": "1.5",
+      "unit": "Std.",
+      "unit_price": "65.00",
+      "total": "97.50"
+    },
+    {
+      "position": 3,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quantity": "1",
+      "unit": "Std.",
+      "unit_price": "81.25",
+      "total": "81.25"
+    },
+    {
+      "position": 4,
+      "description": "Schubkastenführung Vollauszug, Paar",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "36.64",
+      "total": "109.92"
+    },
+    {
+      "position": 5,
+      "description": "Schmier- und Pflegemittel",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "15.94",
+      "total": "15.94"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "54.17",
+      "total": "54.17"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "15.94",
+      "total": "15.94"
+    }
+  ],
+  "net": "537.22",
+  "vat": "102.07",
+  "gross": "639.29",
+  "skonto_amount": null,
+  "deviations": [
+    {
+      "type": "price_changed",
+      "quote_position": 3,
+      "invoice_position": 3,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quote_value": "65.00",
+      "invoice_value": "81.25"
+    }
+  ]
+}

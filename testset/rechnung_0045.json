@@ -1,0 +1,94 @@
+{
+  "file": "rechnung_0045.pdf",
+  "pair_id": "0045",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0688",
+  "issue_date": "2026-10-04",
+  "customer_no": "K-99441",
+  "valid_until": null,
+  "performance_start": "2026-09-22",
+  "performance_end": "2026-09-27",
+  "due_date": "2026-10-18",
+  "quote_number": "AN-2026-0345",
+  "quote_date": "2026-09-11",
+  "sender": {
+    "company": "Tischlerei Zapfenhuber",
+    "street": "Industriestraße 17",
+    "postal_code": "91301",
+    "city": "Forchheim",
+    "tax_number": "000/657/43748",
+    "vat_id": "DE000969108",
+    "iban": "DE00 1406 0293 3334 6800 72",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Nachjustieren und Schmieren von Türbändern und Schlössern",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "69.00",
+      "total": "138.00"
+    },
+    {
+      "position": 2,
+      "description": "Austausch einer beschädigten Fensterbank",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "69.00",
+      "total": "172.50"
+    },
+    {
+      "position": 3,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "3",
+      "unit": "lfm",
+      "unit_price": "2.46",
+      "total": "7.38"
+    },
+    {
+      "position": 4,
+      "description": "Schmier- und Pflegemittel",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "12.58",
+      "total": "12.58"
+    },
+    {
+      "position": 5,
+      "description": "Schubkastenführung Vollauszug, Paar",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "36.27",
+      "total": "108.81"
+    },
+    {
+      "position": 6,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "62.88",
+      "total": "62.88"
+    },
+    {
+      "position": 7,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "17.08",
+      "total": "17.08"
+    }
+  ],
+  "net": "519.23",
+  "vat": "98.65",
+  "gross": "617.88",
+  "skonto_amount": "12.36",
+  "deviations": []
+}

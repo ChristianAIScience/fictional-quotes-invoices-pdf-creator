@@ -1,0 +1,110 @@
+{
+  "file": "angebot_0050.pdf",
+  "pair_id": "0050",
+  "doc_type": "angebot",
+  "number": "AN-2026-0350",
+  "issue_date": "2026-09-30",
+  "customer_no": "K-29221",
+  "valid_until": "2026-10-30",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Schreinermeister Anna Kantwerger",
+    "street": "Industriestraße 46",
+    "postal_code": "96106",
+    "city": "Ebern",
+    "tax_number": "000/917/79827",
+    "vat_id": "DE000080869",
+    "iban": "DE00 4885 1027 2614 9331 63",
+    "bic": "VBMLDEF0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Reparatur- und Wartungsarbeiten an Möbeln und Türen",
+  "location": "Teeküche EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Austausch einer beschädigten Fensterbank",
+      "quantity": "2",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "146.00"
+    },
+    {
+      "position": 2,
+      "description": "Ausbessern von Kratzern und Abplatzungen an Möbeloberflächen",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "182.50"
+    },
+    {
+      "position": 3,
+      "description": "Austausch beschädigter Arbeitsplattenkante",
+      "quantity": "2.5",
+      "unit": "Std.",
+      "unit_price": "73.00",
+      "total": "182.50"
+    },
+    {
+      "position": 4,
+      "description": "ABS-Kantenband 43 mm",
+      "quantity": "3",
+      "unit": "lfm",
+      "unit_price": "2.32",
+      "total": "6.96"
+    },
+    {
+      "position": 5,
+      "description": "Hartwachs-Reparaturset",
+      "quantity": "1",
+      "unit": "Stk.",
+      "unit_price": "35.21",
+      "total": "35.21"
+    },
+    {
+      "position": 6,
+      "description": "Schubkastenführung Vollauszug, Paar",
+      "quantity": "2",
+      "unit": "Stk.",
+      "unit_price": "42.57",
+      "total": "85.14"
+    },
+    {
+      "position": 7,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "57.67",
+      "total": "57.67"
+    },
+    {
+      "position": 8,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "31.45",
+      "total": "31.45"
+    },
+    {
+      "position": 9,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "82.60",
+      "total": "82.60"
+    }
+  ],
+  "net": "810.03",
+  "vat": "153.91",
+  "gross": "963.94",
+  "skonto_amount": null,
+  "deviations": null
+}

@@ -1,0 +1,132 @@
+# Job templates for joinery work at the MusterAI GmbH office.
+# Ranges are [min, max] as strings (converted to Decimal). `step` sets the quantity granularity.
+# Labor is charged at the sender's hourly rate.
+
+[[jobs]]
+subject = "Anfertigung und Montage einer Teeküche"
+locations = ["Teeküche 1. OG", "Teeküche EG", "Sozialraum 2. OG"]
+labor_count = [3, 4]
+material_count = [5, 8]
+labor = [
+  { description = "Aufmaß und Detailplanung vor Ort", hours = ["2", "4"] },
+  { description = "Fertigung der Korpusse und Fronten in der Werkstatt", hours = ["12", "24"] },
+  { description = "Montage der Unter- und Oberschränke vor Ort", hours = ["6", "12"] },
+  { description = "Zuschnitt und Montage der Arbeitsplatte inkl. Ausschnitte für Spüle und Kochfeld", hours = ["3", "6"] },
+  { description = "Mithilfe bei Transport und Montage", hours = ["4", "8"] },
+]
+material = [
+  { description = "Spanplatte melaminbeschichtet 19 mm, weiß", unit = "m²", qty = ["8", "16"], step = "0.5", price = ["24.00", "32.00"] },
+  { description = "Frontplatten MDF lackiert, matt", unit = "m²", qty = ["4", "8"], step = "0.5", price = ["85.00", "120.00"] },
+  { description = "Arbeitsplatte Schichtstoff 38 mm, Eiche-Dekor", unit = "lfm", qty = ["2.4", "4.2"], step = "0.1", price = ["95.00", "140.00"] },
+  { description = "Topfscharniere mit Dämpfung", unit = "Stk.", qty = ["10", "20"], price = ["6.50", "9.80"] },
+  { description = "Schubkastensystem Vollauszug mit Softeinzug", unit = "Stk.", qty = ["2", "4"], price = ["65.00", "95.00"] },
+  { description = "Griffleisten Aluminium, 160 mm", unit = "Stk.", qty = ["8", "16"], price = ["7.90", "12.50"] },
+  { description = "Sockelblende Kunststoff, Höhe 150 mm", unit = "lfm", qty = ["2.4", "4.2"], step = "0.1", price = ["18.00", "26.00"] },
+  { description = "Edelstahl-Einbauspüle inkl. Ablaufgarnitur", unit = "Stk.", qty = ["1", "1"], price = ["140.00", "220.00"] },
+  { description = "Spritzschutz Glas ESG, rückseitig weiß lackiert", unit = "m²", qty = ["1.0", "2.5"], step = "0.1", price = ["180.00", "260.00"] },
+]
+
+[[jobs]]
+subject = "Anfertigung und Einbau einer Regal- und Schrankwand"
+locations = ["Archiv EG", "Büro 2.04", "Besprechungsraum 1.12", "Flur 1. OG"]
+labor_count = [3, 4]
+material_count = [4, 7]
+labor = [
+  { description = "Aufmaß und Planung", hours = ["1.5", "3"] },
+  { description = "Fertigung der Schrank- und Regalelemente in der Werkstatt", hours = ["10", "20"] },
+  { description = "Einbau und Ausrichten der Elemente vor Ort", hours = ["5", "10"] },
+  { description = "Anpassen an Decke und Wand, Montage der Passleisten", hours = ["2", "4"] },
+  { description = "Mithilfe bei Transport und Montage", hours = ["3", "6"] },
+]
+material = [
+  { description = "Spanplatte melaminbeschichtet 19 mm, lichtgrau", unit = "m²", qty = ["10", "22"], step = "0.5", price = ["24.00", "32.00"] },
+  { description = "Multiplex Birke 18 mm für Fachböden", unit = "m²", qty = ["3", "7"], step = "0.5", price = ["58.00", "78.00"] },
+  { description = "ABS-Kantenband 23 mm", unit = "lfm", qty = ["40", "90"], step = "5", price = ["1.20", "2.10"] },
+  { description = "Drehtürbeschläge mit Dämpfung", unit = "Stk.", qty = ["8", "16"], price = ["6.50", "9.80"] },
+  { description = "Möbelschlösser mit Zylinder, gleichschließend", unit = "Stk.", qty = ["3", "6"], price = ["18.00", "29.00"] },
+  { description = "Fachbodenträger Metall", unit = "Stk.", qty = ["40", "80"], step = "4", price = ["0.35", "0.65"] },
+  { description = "Passleisten und Blenden, lackiert", unit = "lfm", qty = ["4", "10"], step = "0.5", price = ["14.00", "22.00"] },
+  { description = "Möbelgriffe Edelstahl, 128 mm", unit = "Stk.", qty = ["6", "12"], price = ["6.90", "11.50"] },
+]
+
+[[jobs]]
+subject = "Austausch von Innentüren"
+locations = ["Büroflur 1. OG", "Büros 2.01–2.06", "Besprechungsräume EG"]
+labor_count = [3, 4]
+material_count = [4, 6]
+labor = [
+  { description = "Demontage und Abtransport der Alttüren inkl. Zargen", hours = ["2", "6"] },
+  { description = "Einbau neuer Holzumfassungszargen inkl. Ausschäumen", hours = ["4", "10"] },
+  { description = "Einhängen und Einstellen der Türblätter", hours = ["2", "4"] },
+  { description = "Montage der Drückergarnituren und Türschließer", hours = ["1.5", "4"] },
+  { description = "Abnahme und Einweisung", hours = ["1", "2"] },
+]
+material = [
+  { description = "Innentürblatt Röhrenspan, CPL weiß, 860 × 1985 mm", unit = "Stk.", qty = ["2", "6"], price = ["165.00", "240.00"] },
+  { description = "Holzumfassungszarge CPL weiß, passend", unit = "Stk.", qty = ["2", "6"], price = ["145.00", "210.00"] },
+  { description = "Drückergarnitur Edelstahl mit Rosetten", unit = "Stk.", qty = ["2", "6"], price = ["38.00", "65.00"] },
+  { description = "Obentürschließer mit Gleitschiene", unit = "Stk.", qty = ["1", "4"], price = ["120.00", "185.00"] },
+  { description = "Einsteckschloss für Profilzylinder", unit = "Stk.", qty = ["2", "6"], price = ["14.00", "24.00"] },
+  { description = "Montageschaum, Kartusche", unit = "Stk.", qty = ["2", "4"], price = ["9.50", "14.00"] },
+  { description = "Türstopper Edelstahl, Bodenmontage", unit = "Stk.", qty = ["2", "6"], price = ["8.00", "15.00"] },
+]
+
+[[jobs]]
+subject = "Anfertigung und Montage eines Empfangstresens"
+locations = ["Empfang EG", "Foyer EG"]
+labor_count = [4, 5]
+material_count = [5, 7]
+labor = [
+  { description = "Entwurf, Aufmaß und Detailplanung", hours = ["4", "8"] },
+  { description = "Fertigung von Unterkonstruktion und Korpus in der Werkstatt", hours = ["16", "28"] },
+  { description = "Furnier- und Oberflächenarbeiten, Lackierung", hours = ["8", "14"] },
+  { description = "Anlieferung und Montage vor Ort", hours = ["6", "10"] },
+  { description = "Mithilfe bei Transport und Montage", hours = ["4", "8"] },
+]
+material = [
+  { description = "MDF-Platte 19 mm für Korpus", unit = "m²", qty = ["6", "10"], step = "0.5", price = ["18.00", "26.00"] },
+  { description = "Eichenfurnier, Echtholz, inkl. Verleimung", unit = "m²", qty = ["4", "8"], step = "0.5", price = ["75.00", "110.00"] },
+  { description = "Mineralwerkstoff-Abdeckplatte 12 mm", unit = "m²", qty = ["1.2", "2.4"], step = "0.1", price = ["380.00", "520.00"] },
+  { description = "Kabeldurchlässe Aluminium, Ø 80 mm", unit = "Stk.", qty = ["2", "4"], price = ["12.00", "19.00"] },
+  { description = "LED-Lichtleiste inkl. Netzteil", unit = "lfm", qty = ["2", "4"], step = "0.5", price = ["45.00", "70.00"] },
+  { description = "2K-Klarlack, seidenmatt", unit = "l", qty = ["2", "4"], step = "0.5", price = ["28.00", "42.00"] },
+  { description = "Schubkastenelement mit Schloss", unit = "Stk.", qty = ["1", "2"], price = ["145.00", "210.00"] },
+  { description = "Höhenverstellbare Stellfüße", unit = "Stk.", qty = ["6", "10"], price = ["4.50", "7.50"] },
+]
+
+[[jobs]]
+subject = "Reparatur- und Wartungsarbeiten an Möbeln und Türen"
+locations = ["Büros 1. OG", "Teeküche EG", "Besprechungsraum 2.10"]
+labor_count = [2, 3]
+material_count = [2, 4]
+labor = [
+  { description = "Einstellen von Scharnieren und Schubkastenführungen", hours = ["1", "3"] },
+  { description = "Austausch beschädigter Arbeitsplattenkante", hours = ["1", "2.5"] },
+  { description = "Nachjustieren und Schmieren von Türbändern und Schlössern", hours = ["1", "2"] },
+  { description = "Ausbessern von Kratzern und Abplatzungen an Möbeloberflächen", hours = ["1.5", "3"] },
+  { description = "Austausch einer beschädigten Fensterbank", hours = ["1.5", "3"] },
+]
+material = [
+  { description = "Topfscharniere mit Dämpfung", unit = "Stk.", qty = ["2", "6"], price = ["6.50", "9.80"] },
+  { description = "Schubkastenführung Vollauszug, Paar", unit = "Stk.", qty = ["1", "3"], price = ["28.00", "45.00"] },
+  { description = "ABS-Kantenband 43 mm", unit = "lfm", qty = ["2", "6"], step = "0.5", price = ["1.80", "2.90"] },
+  { description = "Hartwachs-Reparaturset", unit = "Stk.", qty = ["1", "1"], price = ["24.00", "38.00"] },
+  { description = "Fensterbank Schichtstoff, 250 mm tief", unit = "lfm", qty = ["1", "2.5"], step = "0.1", price = ["42.00", "65.00"] },
+  { description = "Schmier- und Pflegemittel", unit = "Pauschale", qty = ["1", "1"], price = ["12.00", "20.00"] },
+]
+
+# Extra items added to every job with the given probability.
+[[extras]]
+description = "Anfahrtspauschale"
+probability = 0.9
+price = ["35.00", "65.00"]
+
+[[extras]]
+description = "Kleinmaterial (Schrauben, Dübel, Leim)"
+probability = 0.7
+price = ["15.00", "60.00"]
+
+[[extras]]
+description = "Entsorgung von Altmaterial und Verpackung"
+probability = 0.5
+price = ["35.00", "120.00"]

@@ -1,0 +1,118 @@
+{
+  "file": "angebot_0041.pdf",
+  "pair_id": "0041",
+  "doc_type": "angebot",
+  "number": "AN-2026-0341",
+  "issue_date": "2026-08-17",
+  "customer_no": "K-89539",
+  "valid_until": "2026-09-16",
+  "performance_start": null,
+  "performance_end": null,
+  "due_date": null,
+  "quote_number": null,
+  "quote_date": null,
+  "sender": {
+    "company": "Holzwerkstatt Zapfenhuber GmbH",
+    "street": "Am Sägewerk 59",
+    "postal_code": "96117",
+    "city": "Memmelsdorf",
+    "tax_number": "000/921/85156",
+    "vat_id": "DE000915452",
+    "iban": "DE00 8427 0103 9308 7059 32",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Einbau einer Regal- und Schrankwand",
+  "location": "Büro 2.04",
+  "items": [
+    {
+      "position": 1,
+      "description": "Einbau und Ausrichten der Elemente vor Ort",
+      "quantity": "5",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "340.00"
+    },
+    {
+      "position": 2,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "5.5",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "374.00"
+    },
+    {
+      "position": 3,
+      "description": "Aufmaß und Planung",
+      "quantity": "3",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "204.00"
+    },
+    {
+      "position": 4,
+      "description": "Anpassen an Decke und Wand, Montage der Passleisten",
+      "quantity": "4",
+      "unit": "Std.",
+      "unit_price": "68.00",
+      "total": "272.00"
+    },
+    {
+      "position": 5,
+      "description": "ABS-Kantenband 23 mm",
+      "quantity": "55",
+      "unit": "lfm",
+      "unit_price": "2.01",
+      "total": "110.55"
+    },
+    {
+      "position": 6,
+      "description": "Möbelschlösser mit Zylinder, gleichschließend",
+      "quantity": "3",
+      "unit": "Stk.",
+      "unit_price": "28.16",
+      "total": "84.48"
+    },
+    {
+      "position": 7,
+      "description": "Möbelgriffe Edelstahl, 128 mm",
+      "quantity": "7",
+      "unit": "Stk.",
+      "unit_price": "8.59",
+      "total": "60.13"
+    },
+    {
+      "position": 8,
+      "description": "Passleisten und Blenden, lackiert",
+      "quantity": "9.5",
+      "unit": "lfm",
+      "unit_price": "14.79",
+      "total": "140.51"
+    },
+    {
+      "position": 9,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "48.08",
+      "total": "48.08"
+    },
+    {
+      "position": 10,
+      "description": "Kleinmaterial (Schrauben, Dübel, Leim)",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "22.26",
+      "total": "22.26"
+    }
+  ],
+  "net": "1656.01",
+  "vat": "314.64",
+  "gross": "1970.65",
+  "skonto_amount": null,
+  "deviations": null
+}

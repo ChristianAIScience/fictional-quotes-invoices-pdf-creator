@@ -1,0 +1,74 @@
+# Job templates for joinery work at the MusterAI GmbH office.
+# Ranges are [min, max] as strings (converted to Decimal). `step` sets the quantity granularity.
+# Labor is charged at the sender's hourly rate.
+
+[[jobs]]
+subject = "Neuanfertigung und Montage einer Empfangstheke"
+locations = ["Empfang EG", "Foyer EG"]
+labor_count = [3, 4]
+material_count = [5, 6]
+labor = [
+  { description = "Aufmaß und Detailplanung vor Ort", hours = ["1", "2"] },
+  { description = "Fertigung Korpus und Frontelemente", hours = ["8", "12"] },
+  { description = "Lackieren und Endbehandlung in der Werkstatt", hours = ["4", "6"] },
+  { description = "Montage und Einpassung vor Ort", hours = ["4", "8"] },
+]
+material = [
+  { description = "Spanplatte melaminbeschichtet 19 mm, weiß", unit = "m²", qty = ["6", "12"], step = "0.5", price = ["22.00", "30.00"] },
+  { description = "Fronten MDF lackiert, matt", unit = "m²", qty = ["3", "6"], step = "0.5", price = ["75.00", "110.00"] },
+  { description = "Arbeitsplatte Schichtstoff 38 mm, walnut", unit = "lfm", qty = ["3", "5"], step = "0.1", price = ["95.00", "140.00"] },
+  { description = "Topfscharniere mit Dämpfung", unit = "Stk.", qty = ["12", "20"], price = ["6.50", "10.00"] },
+  { description = "Griffleiste Aluminium 160 mm", unit = "Stk.", qty = ["8", "14"], price = ["8.50", "13.00"] },
+  { description = "Sockelblende Kunststoff, Höhe 150 mm", unit = "lfm", qty = ["2.4", "4.8"], step = "0.1", price = ["16.00", "25.00"] },
+]
+
+[[jobs]]
+subject = "Anpassung und Einbau von Sideboards im Besprechungsraum"
+locations = ["Besprechungsraum 1. OG"]
+labor_count = [2, 3]
+material_count = [3, 4]
+labor = [
+  { description = "Aufmaß und Anpassungszeichnung", hours = ["1", "2"] },
+  { description = "Fertigung der Sideboards in der Werkstatt", hours = ["6", "10"] },
+  { description = "Montage vor Ort und Feinjustierung", hours = ["2", "4"] },
+]
+material = [
+  { description = "Korpusplatte melamin 19 mm, grau", unit = "m²", qty = ["4", "8"], step = "0.5", price = ["20.00", "28.00"] },
+  { description = "Fronten MDF furniert Eiche", unit = "m²", qty = ["1.5", "3"], step = "0.5", price = ["95.00", "150.00"] },
+  { description = "Schubkastensystem Vollauszug", unit = "Stk.", qty = ["2", "4"], price = ["60.00", "95.00"] },
+  { description = "Griffmuschel Edelstahl", unit = "Stk.", qty = ["4", "8"], price = ["7.50", "14.00"] },
+]
+
+[[jobs]]
+subject = "Aufbau offener Regalwände für Archivräume"
+locations = ["Archiv EG", "Lager 2. OG"]
+labor_count = [4, 5]
+material_count = [2, 3]
+labor = [
+  { description = "Bestandsaufnahme und Aufmaß", hours = ["1", "2"] },
+  { description = "Fertigung der Regalböden", hours = ["6", "10"] },
+  { description = "Zuschnitt der Rückwände", hours = ["2", "4"] },
+  { description = "Montage der Regale vor Ort", hours = ["6", "12"] },
+  { description = "Endkontrolle und Einweisung", hours = ["1", "2"] },
+]
+material = [
+  { description = "Spanplatte roh 19 mm", unit = "m²", qty = ["10", "20"], step = "0.5", price = ["18.00", "26.00"] },
+  { description = "Regalwinkel verzinkt", unit = "Stk.", qty = ["40", "80"], price = ["2.50", "4.50"] },
+  { description = "Rückwand MDF 3 mm", unit = "m²", qty = ["6", "12"], step = "0.1", price = ["12.00", "20.00"] },
+]
+
+# Extra items added to every job with the given probability.
+[[extras]]
+description = "Anfahrtspauschale"
+probability = 0.95
+price = ["40.00", "80.00"]
+
+[[extras]]
+description = "Kleinmaterial (Schrauben, Dübel)"
+probability = 0.9
+price = ["8.00", "25.00"]
+
+[[extras]]
+description = "Entsorgung Altmöbel"
+probability = 0.6
+price = ["60.00", "180.00"]

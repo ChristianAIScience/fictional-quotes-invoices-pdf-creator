@@ -1,0 +1,142 @@
+{
+  "file": "rechnung_0013.pdf",
+  "pair_id": "0013",
+  "doc_type": "rechnung",
+  "number": "RE-2026-0656",
+  "issue_date": "2026-03-14",
+  "customer_no": "K-12368",
+  "valid_until": null,
+  "performance_start": "2026-03-05",
+  "performance_end": "2026-03-11",
+  "due_date": "2026-03-28",
+  "quote_number": "AN-2026-0313",
+  "quote_date": "2026-03-01",
+  "sender": {
+    "company": "Schreinerei Eschwaldner",
+    "street": "Mühlweg 47",
+    "postal_code": "96215",
+    "city": "Lichtenfels",
+    "tax_number": "000/623/28588",
+    "vat_id": "DE000424745",
+    "iban": "DE00 0909 7439 5339 4210 47",
+    "bic": "BSPLDEB0XXX"
+  },
+  "recipient": [
+    "MusterAI GmbH",
+    "Lange Str. 2",
+    "96052 Bamberg"
+  ],
+  "subject": "Anfertigung und Montage eines Empfangstresens",
+  "location": "Foyer EG",
+  "items": [
+    {
+      "position": 1,
+      "description": "Anlieferung und Montage vor Ort",
+      "quantity": "9.5",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "579.50"
+    },
+    {
+      "position": 2,
+      "description": "Entwurf, Aufmaß und Detailplanung",
+      "quantity": "6.5",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "396.50"
+    },
+    {
+      "position": 3,
+      "description": "Fertigung von Unterkonstruktion und Korpus in der Werkstatt",
+      "quantity": "26.5",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "1616.50"
+    },
+    {
+      "position": 4,
+      "description": "Mithilfe bei Transport und Montage",
+      "quantity": "6",
+      "unit": "Std.",
+      "unit_price": "61.00",
+      "total": "366.00"
+    },
+    {
+      "position": 5,
+      "description": "Schubkastenelement mit Schloss",
+      "quantity": "2",
+      "unit": "Stk.",
+      "unit_price": "147.05",
+      "total": "294.10"
+    },
+    {
+      "position": 6,
+      "description": "Höhenverstellbare Stellfüße",
+      "quantity": "10",
+      "unit": "Stk.",
+      "unit_price": "7.37",
+      "total": "73.70"
+    },
+    {
+      "position": 7,
+      "description": "2K-Klarlack, seidenmatt",
+      "quantity": "3",
+      "unit": "l",
+      "unit_price": "40.49",
+      "total": "121.47"
+    },
+    {
+      "position": 8,
+      "description": "Mineralwerkstoff-Abdeckplatte 12 mm",
+      "quantity": "1.5",
+      "unit": "m²",
+      "unit_price": "486.11",
+      "total": "729.17"
+    },
+    {
+      "position": 9,
+      "description": "MDF-Platte 19 mm für Korpus",
+      "quantity": "6.5",
+      "unit": "m²",
+      "unit_price": "24.50",
+      "total": "159.25"
+    },
+    {
+      "position": 10,
+      "description": "LED-Lichtleiste inkl. Netzteil",
+      "quantity": "3.5",
+      "unit": "lfm",
+      "unit_price": "57.37",
+      "total": "200.80"
+    },
+    {
+      "position": 11,
+      "description": "Kabeldurchlässe Aluminium, Ø 80 mm",
+      "quantity": "4",
+      "unit": "Stk.",
+      "unit_price": "16.18",
+      "total": "64.72"
+    },
+    {
+      "position": 12,
+      "description": "Anfahrtspauschale",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "36.85",
+      "total": "36.85"
+    },
+    {
+      "position": 13,
+      "description": "Entsorgung von Altmaterial und Verpackung",
+      "quantity": "1",
+      "unit": "Pauschale",
+      "unit_price": "115.71",
+      "total": "115.71"
+    }
+  ],
+  "net": "4754.27",
+  "vat": "903.31",
+  "gross": "5657.58",
+  "skonto_amount": "113.15",
+  "deviations": []
+}
